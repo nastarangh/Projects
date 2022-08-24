@@ -1,0 +1,17 @@
+com\wiley\vendingmachine\ui\VendingMachineView.class
+com\wiley\vendingmachine\dao\VendingMachineDao.class
+com\wiley\vendingmachine\dao\VendingMachineDaoFileImpl.class
+com\wiley\vendingmachine\dao\VendingMachineAuditDao.class
+com\wiley\vendingmachine\dao\VendingMachinePersistenceException.class
+com\wiley\vendingmachine\ui\UserIOConsoleImpl.class
+com\wiley\vendingmachine\controller\VendingMachineController.class
+com\wiley\vendingmachine\service\VendingMachineServiceLayerImpl.class
+com\wiley\vendingmachine\ui\UserIO.class
+com\wiley\vendingmachine\App.class
+com\wiley\vendingmachine\dto\Change.class
+com\wiley\vendingmachine\dto\Change$Coin.class
+com\wiley\vendingmachine\dao\NoItemInventoryException.class
+com\wiley\vendingmachine\dao\VendingMachineAuditDaoFileImpl.class
+com\wiley\vendingmachine\dto\Item.class
+com\wiley\vendingmachine\dao\InsufficientFundsException.class
+com\wiley\vendingmachine\service\VendingMachineServiceLayer.class

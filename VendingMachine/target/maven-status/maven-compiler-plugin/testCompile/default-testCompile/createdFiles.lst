@@ -1,0 +1,4 @@
+com\wiley\vendingmachine\dao\VendingMachineDaoFileImplTest.class
+com\wiley\vendingmachine\service\VendingMachineServiceLayerImplTest.class
+com\wiley\vendingmachine\service\VendingMachineDaoStubImpl.class
+com\wiley\vendingmachine\service\VendingMachineAuditDaoStubImpl.class

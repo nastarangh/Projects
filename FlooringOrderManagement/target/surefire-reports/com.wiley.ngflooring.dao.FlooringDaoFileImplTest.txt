@@ -1,0 +1,34 @@
+-------------------------------------------------------------------------------
+Test set: com.wiley.ngflooring.dao.FlooringDaoFileImplTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec <<< FAILURE!
+com.wiley.ngflooring.dao.FlooringDaoFileImplTest.testAddGetOrder()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1651)
+	at com.wiley.ngflooring.dao.FlooringDaoFileImpl.getLastOrderNum(FlooringDaoFileImpl.java:263)
+	at com.wiley.ngflooring.dao.FlooringDaoFileImplTest.testAddGetOrder(FlooringDaoFileImplTest.java:56)
+
+com.wiley.ngflooring.dao.FlooringDaoFileImplTest.testAddEditOrder()  Time elapsed: 0 sec  <<< FAILURE!
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1651)
+	at com.wiley.ngflooring.dao.FlooringDaoFileImpl.getLastOrderNum(FlooringDaoFileImpl.java:263)
+	at com.wiley.ngflooring.dao.FlooringDaoFileImplTest.testAddEditOrder(FlooringDaoFileImplTest.java:141)
+
+com.wiley.ngflooring.dao.FlooringDaoFileImplTest.testAddRemoveOrder()  Time elapsed: 0 sec  <<< FAILURE!
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1651)
+	at com.wiley.ngflooring.dao.FlooringDaoFileImpl.getLastOrderNum(FlooringDaoFileImpl.java:263)
+	at com.wiley.ngflooring.dao.FlooringDaoFileImplTest.testAddRemoveOrder(FlooringDaoFileImplTest.java:158)
+
+com.wiley.ngflooring.dao.FlooringDaoFileImplTest.testAddExportAllOrders()  Time elapsed: 0 sec  <<< FAILURE!
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1651)
+	at com.wiley.ngflooring.dao.FlooringDaoFileImpl.getLastOrderNum(FlooringDaoFileImpl.java:263)
+	at com.wiley.ngflooring.dao.FlooringDaoFileImplTest.testAddExportAllOrders(FlooringDaoFileImplTest.java:116)
+
+com.wiley.ngflooring.dao.FlooringDaoFileImplTest.testAddGetALLOrders()  Time elapsed: 0 sec  <<< FAILURE!
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1651)
+	at com.wiley.ngflooring.dao.FlooringDaoFileImpl.getLastOrderNum(FlooringDaoFileImpl.java:263)
+	at com.wiley.ngflooring.dao.FlooringDaoFileImplTest.testAddGetALLOrders(FlooringDaoFileImplTest.java:83)
+
